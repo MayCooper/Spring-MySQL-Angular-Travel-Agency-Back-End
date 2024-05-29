@@ -54,3 +54,16 @@ Migrating a legacy travel agency back-end system to a modern Spring Boot archite
 - **Angular (front-end)**
 - **IntelliJ IDEA (Ultimate Edition)**
 - **GitLab**
+
+Adding Two Excursions
+![Adding two excursions](https://github.com/MayCooper/Spring-MySQL-Angular-Travel-Agency-Back-End/assets/82129870/6c7ec0d1-6426-4daf-870a-f564ef42e3c4)
+
+Network tab
+![Adding two excursions_and network tab](https://github.com/MayCooper/Spring-MySQL-Angular-Travel-Agency-Back-End/assets/82129870/20f67356-549f-470b-bf7b-d22913137cfb)
+
+Customers in Front-End
+![customers in front_end](https://github.com/MayCooper/Spring-MySQL-Angular-Travel-Agency-Back-End/assets/82129870/cacda23c-f7d7-4e02-80ab-f516208452ac)
+
+Customers in MySQL Workbench
+![customers_mysql workbench](https://github.com/MayCooper/Spring-MySQL-Angular-Travel-Agency-Back-End/assets/82129870/a9e0ddde-1e83-4ec1-8762-03ff4d2fb5d1)
+
